@@ -5,7 +5,7 @@ A personal collection of folders for the [Fusion](https://apps.apple.com/app/fus
 ## Usage
 
 1. In Fusion, go to the Folders section and import the `folders.json` file.
-2. The posters used are already uploaded in this repo, but you’re free to host them yourself if you prefer..
+2. The posters used are already uploaded in this repo, but you’re free to host them yourself if you prefer.
 
 ## Notes
 
