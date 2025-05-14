@@ -134,7 +134,7 @@
   },
   {
     "id": "animation-folder",
-    "name": "Action",
+    "name": "Animation",
     "category": "Genres",
     "catalogIds": [
 
@@ -172,7 +172,7 @@
   },
   {
     "id": "adventure-folder",
-    "name": "Action",
+    "name": "Adventure",
     "category": "Genres",
     "catalogIds": [
 
@@ -191,7 +191,7 @@
   },
   {
     "id": "mystery-folder",
-    "name": "Action",
+    "name": "Mystery",
     "category": "Genres",
     "catalogIds": [
 
@@ -210,7 +210,7 @@
   },
   {
     "id": "family-folder",
-    "name": "Action",
+    "name": "Family",
     "category": "Genres",
     "catalogIds": [
 
@@ -248,7 +248,7 @@
   },
   {
     "id": "history-folder",
-    "name": "Action",
+    "name": "History",
     "category": "Genres",
     "catalogIds": [
 
@@ -267,7 +267,7 @@
   },
   {
     "id": "documentary-folder",
-    "name": "Action",
+    "name": "Documentary",
     "category": "Genres",
     "catalogIds": [
 
@@ -286,7 +286,7 @@
   },
   {
     "id": "music-folder",
-    "name": "Action",
+    "name": "Music",
     "category": "Genres",
     "catalogIds": [
 
