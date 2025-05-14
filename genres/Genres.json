@@ -1,1 +1,344 @@
+[
+  {
+    "id": "thriller-folder",
+    "name": "Thriller",
+    "category": "Genres",
+    "catalogIds": [
 
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/posters/thriller.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "drama-folder",
+    "name": "Drama",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/posters/drama.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "comedy-folder",
+    "name": "Comedy",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/posters/comedy.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "sci-fi-folder",
+    "name": "Sci-Fi",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/posters/sci-fi.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "action-folder",
+    "name": "Action",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/posters/action.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "romance-folder",
+    "name": "Romance",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/posters/romance.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "crime-folder",
+    "name": "Crime",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/posters/crime.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "animation-folder",
+    "name": "Action",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/posters/animation.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "horror-folder",
+    "name": "Horror",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/posters/horror.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "adventure-folder",
+    "name": "Action",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/posters/adventure.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "mystery-folder",
+    "name": "Action",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/posters/mystery.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "family-folder",
+    "name": "Action",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/posters/family.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "war-folder",
+    "name": "War",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/posters/war.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "history-folder",
+    "name": "Action",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/posters/history.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "documentary-folder",
+    "name": "Action",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/posters/documentary.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "music-folder",
+    "name": "Action",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/posters/music.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "fantasy-folder",
+    "name": "Fantasy",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/posters/fantasy.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "western-folder",
+    "name": "Western",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/posters/western.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  }
+]
