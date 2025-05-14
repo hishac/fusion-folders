@@ -1,5 +1,24 @@
 [
   {
+    "id": "sony-pictures-animation",
+    "name": "Sony Pictures Animation",
+    "category": "Animation Studios",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/animation-studios/posters/sony.png",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": null
+  },
+  {
     "id": "dreamworks-animation",
     "name": "DreamWorks Animation",
     "category": "Animation Studios",
@@ -35,7 +54,7 @@
     "textSize": "Large",
     "textWeight": "Bold",
     "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundColor": null
   },
   {
     "id": "pixar",
@@ -54,26 +73,7 @@
     "textSize": "Large",
     "textWeight": "Bold",
     "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
-  },
-  {
-    "id": "sony-pictures-animation",
-    "name": "Sony Pictures Animation",
-    "category": "Animation Studios",
-    "catalogIds": [
-
-    ],
-    "displayMode": "Grid",
-    "layout": "Poster",
-    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/animation-studios/posters/sony.png",
-    "iconName": "film",
-    "showIcon": false,
-    "nameDisplayMode": "Hidden",
-    "mediaTypeFilter": "All Content",
-    "textSize": "Large",
-    "textWeight": "Bold",
-    "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundColor": null
   },
   {
     "id": "studio-ghibli",
@@ -92,7 +92,7 @@
     "textSize": "Large",
     "textWeight": "Bold",
     "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundColor": null
   },
   {
     "id": "universal-animation-studios",
@@ -111,7 +111,7 @@
     "textSize": "Large",
     "textWeight": "Bold",
     "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundColor": null
   },
   {
     "id": "walt-disney-animation",
@@ -130,7 +130,7 @@
     "textSize": "Large",
     "textWeight": "Bold",
     "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundColor": null
   },
   {
     "id": "warner-bros-animation",
@@ -149,6 +149,6 @@
     "textSize": "Large",
     "textWeight": "Bold",
     "textColor": "#FFFFFF",
-    "backgroundColor": "#000000"
+    "backgroundColor": null
   }
 ]
