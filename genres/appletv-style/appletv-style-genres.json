@@ -273,7 +273,7 @@
 
     ],
     "displayMode": "Grid",
-    "layout": "Poster",
+    "layout": "Landscape",
     "backgroundColor": null,
     "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/appletv-style/anime.webp",
     "logoURL": null,
@@ -292,7 +292,7 @@
 
     ],
     "displayMode": "Grid",
-    "layout": "Poster",
+    "layout": "Landscape",
     "backgroundColor": null,
     "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/appletv-style/fantasy.webp",
     "logoURL": null,
