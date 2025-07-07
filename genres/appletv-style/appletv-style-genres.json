@@ -1,0 +1,306 @@
+[
+  {
+    "id": "thriller-folder",
+    "name": "Thriller",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/appletv-style/thriller.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "drama-folder",
+    "name": "Drama",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/appletv-style/drama.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "comedy-folder",
+    "name": "Comedy",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/appletv-style/comedy.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "sci-fi-folder",
+    "name": "Sci-Fi",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/appletv-style/scifi.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "action-folder",
+    "name": "Action",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/appletv-style/action.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "romance-folder",
+    "name": "Romance",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/appletv-style/romance.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "crime-folder",
+    "name": "Crime",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/appletv-style/crime.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "animation-folder",
+    "name": "Animation",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/appletv-style/animation.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "horror-folder",
+    "name": "Horror",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/appletv-style/horror.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "adventure-folder",
+    "name": "Adventure",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/appletv-style/adventure.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "mystery-folder",
+    "name": "Mystery",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/appletv-style/mystery.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "family-folder",
+    "name": "Family",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/appletv-style/family.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "history-folder",
+    "name": "History",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/appletv-style/history.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "documentary-folder",
+    "name": "Documentary",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Landscape",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/appletv-style/documentary.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "anime-folder",
+    "name": "Anime",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/appletv-style/anime.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  },
+  {
+    "id": "fantasy-folder",
+    "name": "Fantasy",
+    "category": "Genres",
+    "catalogIds": [
+
+    ],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundColor": null,
+    "backgroundImageURL": "https://raw.githubusercontent.com/hishac/fusion-folders/main/genres/appletv-style/fantasy.webp",
+    "logoURL": null,
+    "mediaTypeFilter": "All Content",
+    "iconName": "tv",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "textSize": "Medium",
+    "textWeight": "Bold"
+  }
+]
